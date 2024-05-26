@@ -1,4 +1,4 @@
-<h1>Hi guys this repository contains of Basics Concepts of JavaScript Code for </h1>
+<h1>Hi guys this repository contains of Basics Concepts of JavaScript Code </h1>
 
 <h3>Complete JavaScript Monsters Class 🤘🥂.</h3>
 

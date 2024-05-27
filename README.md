@@ -12,13 +12,8 @@ This Repository contains of all Basics Concepts of JavaScript
   <li> Logical Operators </li>
   <li> Data Types </li>
   <li> Booleans </li>
-  <li> IF Statement </li>
-  <li> If elsse Statement </li>
-  <li> Else if statement </li>
-  <li> Switch Statement </li>
-  <li> For loop </li>
-  <li> While loop </li>
-  <li> Nested Loops</li>
+  <li> Conditional Statements</li>
+  <li>Conditional Loops</li>
   <li> Functions  </li>
   <li> Objects </li>
   <li> Arrays</li>
